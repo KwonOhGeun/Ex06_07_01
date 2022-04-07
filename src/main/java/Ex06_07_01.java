@@ -4,7 +4,7 @@ public class Ex06_07_01 {
 
         int f = 1;
 
-        for ( int i = 5; i > 0; i--){
+        for ( int i = 5; i > 1; i--){
             f *= i;
             System.out.println("중간 계산 값 : " + f);
 
