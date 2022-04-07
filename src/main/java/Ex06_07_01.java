@@ -10,6 +10,6 @@ public class Ex06_07_01 {
 
 
         }
-        System.out.printf("5!의 값 : " +f );
+        System.out.printf("5!의 값 : " + f );
     }
 }
